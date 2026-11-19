@@ -12,3 +12,4 @@ Autres compétences :
 
 - [pilote-conception](pilote-conception.md) — point d'entrée unique : choisit le parcours, enchaîne les skills jusqu'au bout, avec pause et reprise
 - [refonte-outil](refonte-outil.md) — repenser un outil existant (HTML, artefact, Excel) : remplace Discovery, Options et Architect par un seul Dossier de refonte, puis UX/UI et Builder
+- [audit-ux-ui](audit-ux-ui.md) — auditer l'UX/UI d'un outil existant : mesures, sessions réelles, catalogue de motifs appris (M1-M20)
